@@ -1,0 +1,6 @@
+[submodule "metabase-queries/amman-indicators"]
+	path = metabase-queries/amman-indicators
+	url = https://github.com/bahmni-msf/amman-indicators.git
+[submodule "amman-indicators"]
+	path = amman-indicators
+	url = https://github.com/bahmni-msf/amman-indicators.git
